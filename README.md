@@ -20,7 +20,7 @@ make
 If the compile was successful, you should now see driver.efi in the driver folder. Same applies to client.
 
 ## Usage
-In order to use the efi-memory driver, you need to load it. First, obtain a copy of driver.efi ([compile it](https://github.com/SamuelTulach/efi-memory#compiling) or [download it from release section](https://github.com/SamuelTulach/efi-memory/releases)) and a copy of [EDK2 efi shell](https://github.com/tianocore/edk2/releases). Now follow these steps:
+In order to use the efi-memory driver, you need to load it. First, obtain a copy of driver.efi ([compile it](https://github.com/SamuelTulach/EfiDump#compiling) or [download it from release section](https://github.com/SamuelTulach/EfiDump/releases/)) and a copy of [EDK2 efi shell](https://github.com/tianocore/edk2/releases). Now follow these steps:
 
 1. Extract downloaded efi shell and rename file Shell.efi (should be in folder UefiShell/X64) to bootx64.efi
 2. Format some USB drive to FAT32
