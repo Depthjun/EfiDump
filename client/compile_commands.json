@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc     -o CMakeFiles/efidump.exe.dir/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c.o   -c /home/q/Documents/Projects/EfiDump/client/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c",
+  "file": "/home/q/Documents/Projects/EfiDump/client/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c"
+},
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc     -o CMakeFiles/efidump.exe.dir/src/argtable3.c.o   -c /home/q/Documents/Projects/EfiDump/client/src/argtable3.c",
+  "file": "/home/q/Documents/Projects/EfiDump/client/src/argtable3.c"
+},
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++     -O2 -mconsole -static-libgcc -static-libstdc++ -Wall -Werror   -std=gnu++17 -o CMakeFiles/efidump.exe.dir/src/efi.cc.o -c /home/q/Documents/Projects/EfiDump/client/src/efi.cc",
+  "file": "/home/q/Documents/Projects/EfiDump/client/src/efi.cc"
+},
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++     -O2 -mconsole -static-libgcc -static-libstdc++ -Wall -Werror   -std=gnu++17 -o CMakeFiles/efidump.exe.dir/src/helper.cc.o -c /home/q/Documents/Projects/EfiDump/client/src/helper.cc",
+  "file": "/home/q/Documents/Projects/EfiDump/client/src/helper.cc"
+},
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++     -O2 -mconsole -static-libgcc -static-libstdc++ -Wall -Werror   -std=gnu++17 -o CMakeFiles/efidump.exe.dir/src/main.cc.o -c /home/q/Documents/Projects/EfiDump/client/src/main.cc",
+  "file": "/home/q/Documents/Projects/EfiDump/client/src/main.cc"
+},
+{
+  "directory": "/home/q/Documents/Projects/EfiDump/client/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++     -O2 -mconsole -static-libgcc -static-libstdc++ -Wall -Werror   -std=gnu++17 -o CMakeFiles/efidump.exe.dir/src/utils.cc.o -c /home/q/Documents/Projects/EfiDump/client/src/utils.cc",
+  "file": "/home/q/Documents/Projects/EfiDump/client/src/utils.cc"
+}
+]
