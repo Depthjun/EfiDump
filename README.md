@@ -1,5 +1,5 @@
 # EfiDump
-Yet another PoC EFI runtime driver. This time for direct process memory read/write. This is a simple example of how can process dumper work. If you want to use this for some more complex project, please add memory checks (or you are going to be bluescreening every 5 minutes) and save the Windows kernel exports pointers in the driver once, so you don't have to send them every time.
+Yet another PoC EFI runtime driver. This time for direct process memory read/write. This is a simple example of how can process dumper work. If you want to use this for some more complex project, please add memory checks (or you are going to be bluescreening every 5 minutes) and save the Windows kernel exports pointers in the driver once, so you don't have to send them every time. [Here is a video of it in action](https://youtu.be/cTxCyzFaa20).
 
 ## Compiling
 First you need a working Linux install (or you can use Linux subsystem for Windows) and install gnu-efi (commands for Ubuntu 20.04):
